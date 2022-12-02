@@ -1,0 +1,8 @@
+{
+    //From https://github.com/microsoft/vscode-dev-containers/blob/main/containers/ubuntu/.devcontainer/devcontainer.json
+	"name": "Ubuntu",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"remoteUser": "vscode"
+}
